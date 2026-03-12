@@ -7,7 +7,6 @@ public class App
 		
          int result = a + b;
          
-         int x = 100;
          
          return result;
     }
